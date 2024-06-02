@@ -1,4 +1,4 @@
-# My Clone of Plants vs. Zombies in C++
+# My Clone of Plants vs Zombies in C++
 
 This repository contains my semester project for the second semester of my computer science studies. The project is a clone of the popular game "Plants vs. Zombies," implemented entirely using Object-Oriented Programming (OOP) concepts, specifically classes and structs. The project was developed over a span of 20 days as a demonstration of my understanding of OOP.
 
