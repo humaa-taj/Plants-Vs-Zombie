@@ -11,6 +11,10 @@ This repository contains my semester project for the second semester of my compu
 - **Zombies and Plants**: In each level, zombies attempt to invade the player's house. The player must strategically plant defensive plants to thwart the invasion.
 - **SFML for GUI**: The Simple and Fast Multimedia Library (SFML) was used to create the graphical user interface for the game.
 
+  
+### Prerequisites
+Before running the game, ensure you have SFML installed on your system.
+
 ### Educational Purpose:
 This project was created to apply and test my knowledge of Object-Oriented Programming concepts learned during my second semester. The implementation relies solely on classes and structs to manage game mechanics and entities.
 
