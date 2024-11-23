@@ -1,6 +1,3 @@
-Here’s an updated version of your `README.md` file with the requested additions:
-
----
 
 # My Clone of Plants vs Zombies in C++
 
